@@ -1,5 +1,12 @@
-### Saludos! 👋
-<img src="https://github.com/DevEscanor/DevEscanor/assets/168785294/4f3e8466-9feb-450b-b35f-9e40744cdf71" width="900" height="300">
+## Saludos!! 👋
+
+Soy un emprendedor informático apasionado por el mundo de la tecnología.
+Me he desempeñado por mas de 4 años como Director de Tecnología en la empresa de desarrollo de software ARCADIUS-NIC de la cual soy CO-Fundador.
+A lo largo de mi carrera, he dedicado gran parte de mi tiempo al desarrollo de software enfocado en MicroCrédito, desarrollando estrategias para garantizar el alineamiento con los objetivos de las empresas implementando nuevas tecnologías que brindan una ventaja competitiva y de forma rentable , asegurándoles funcionalidad y eficiencia .
+
+Gracias por la oportunidad de compartir mi pasión y experiencia con ustedes el día de hoy.
+
+<!-- <img src="https://github.com/DevEscanor/DevEscanor/assets/168785294/4f3e8466-9feb-450b-b35f-9e40744cdf71" width="900" height="300">
 <!--
 **DevEscanor/DevEscanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
