@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/DevEscanor/DevEscanor/assets/168785294/4f3e8466-9feb-450b-b35f-9e40744cdf71" width="900" height="250">
+<img src="https://github.com/DevEscanor/DevEscanor/assets/168785294/4f3e8466-9feb-450b-b35f-9e40744cdf71" width="900" height="300">
 <!--
 **DevEscanor/DevEscanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
