@@ -1,4 +1,4 @@
-# 🤖 DevEscanor — CTO | Arquitecto de Software
+# 🤖 DevSuarez — CTO | Arquitecto de Software
 
 ## Sobre mí
 
