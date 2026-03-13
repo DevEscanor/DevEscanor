@@ -1,30 +1,33 @@
-# 🤖 DevSuarez — CTO | Arquitecto de Software
+# Hi, I'm David Samuel Suarez Montoya 👋
 
-## Sobre mí
+**Backend Software Engineer** focused on building **secure, maintainable and well‑structured systems**.  
+I’ve worked on real-world software for **microfinance, accounting and inventory**, with a strong interest in clean architecture, code quality and long‑term maintainability.
 
-Soy **David Samuel Suarez Montoya**, Chief Technology Officer (CTO) y cofundador de ARCADIUS-NIC. Apasionado por la tecnología, la innovación y el desarrollo de software, dedico mi carrera a diseñar y liderar soluciones técnicas que agregan valor real y sostenible.
-
-Con más de 5 años de experiencia en el sector, he sido responsable de la arquitectura y la implementación de sistemas escalables, robustos y alineados a los objetivos estratégicos de negocios.
-
-Me especializo en transformar ideas complejas en productos digitales funcionales, manteniendo siempre un enfoque en la calidad, la seguridad y la mejora continua. Mi misión es conectar el potencial de la tecnología con el crecimiento de las personas y las organizaciones.
+📍 Matagalpa, Nicaragua  
+🔗 LinkedIn: https://www.linkedin.com/in/david-samuel-suarez-montoya-242059150/
 
 ---
 
-## 🛠️ Habilidades técnicas
-
-- Arquitectura de software y sistemas distribuidos
-- Desarrollo backend y frontend (Full Stack)
-- Integración de tecnologías emergentes (IA, blockchain, cloud)
-- Metodologías ágiles (Scrum, Kanban)
-- Seguridad y escalabilidad en aplicaciones
+## What I focus on
+- Designing backend APIs with clear responsibilities and consistent error handling
+- Writing maintainable code (Clean Code, SOLID) and refactoring with intention
+- Data integrity and SQL performance (transactions, constraints, efficient queries)
+- Security basics: input validation, access control, safe error handling
 
 ---
 
-## 📈 Trayectoria y logros
+## Tech Stack
+**Backend:** Node.js, TypeScript, NestJS  
+**Database:** SQL Server (T‑SQL)  
+**Tools:** Git, Docker  
+**Practices:** Clean Code, SOLID, Refactoring, Basic Testing
 
-- CTO y cofundador de ARCADIUS-NIC, liderando la transformación digital y la innovación tecnológica.
-- Diseño y ejecución de proyectos de software a medida para clientes de alto impacto.
-- Mentoría y formación de equipos de desarrollo orientados a la excelencia técnica.
+---
+
+## Currently improving
+- Backend architecture patterns (layered design, modularization, boundaries)
+- Security practices for backend applications
+- Technical English (reading docs, writing commits/README in English)
 
 ---
 
@@ -36,11 +39,6 @@ Me especializo en transformar ideas complejas en productos digitales funcionales
 
 ---
 
-## 🤝 Conecta conmigo
-
-- [LinkedIn](www.linkedin.com/in/david-samuel-suarez-montoya-242059150)
-- [Correo electrónico](mailto:devsamsuarez@gmail.com)
-
----
-
-Gracias por visitar mi perfil. Estoy abierto a nuevas colaboraciones y retos tecnológicos que impulsen el cambio y la innovación.
+## Contact
+If you’d like to collaborate or talk about backend engineering:
+- LinkedIn: https://www.linkedin.com/in/david-samuel-suarez-montoya-242059150/
